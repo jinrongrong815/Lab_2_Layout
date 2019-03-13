@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab_2_1_LinearLayout</string>
+    <string name="t11">One,One</string>
+    <string name="t12">One,Two</string>
+    <string name="t13">One,Three</string>
+    <string name="t14">One,Four</string>
+    <string name="t21">Two,One</string>
+    <string name="t22">Two,Two</string>
+    <string name="t23">Two,Three</string>
+    <string name="t24">Two,Four</string>
+    <string name="t31">Three,One</string>
+    <string name="t32">Three,Two</string>
+    <string name="t33">Three,Three</string>
+    <string name="t34">Three,Four</string>
+    <string name="t41">Four,One</string>
+    <string name="t42">Four,Two</string>
+    <string name="t43">Four,Three</string>
+    <string name="t44">Four,Four</string>
+</resources>
