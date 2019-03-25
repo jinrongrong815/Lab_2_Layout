@@ -1,5 +1,8 @@
 # Lab_2_Layout
-Lab 2
+
+# 实验二 Android布局
+
+# 一、实验内容
 
 1.利用LinearLayout实现如下界面
 
@@ -13,25 +16,7 @@ Lab 2
 
 <img height=400 width=300 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_2_3q.png">
 
-结果截图：
-
-mainlayout：
-
-<img height=350 width=500 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_2_mainlayout.png">
-
-linearlayout:
-
-<img height=350 width=500 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_2_linearlayout.png">
-
-constraintlayout:
-
-<img height=350 width=500 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_2_constraintlayout.png">
-
-tablelayout:
-
-<img height=350 width=500 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_2_tablelayout.png">
-
-关键代码：
+# 二、实验关键代码：
 
 ***MainLayout.java***
 
@@ -488,3 +473,21 @@ public class MainLayout extends AppCompatActivity {
             android:layout_height="wrap_content"
             android:text="" />
     </TableRow>
+
+# 三、实验结果截图：
+
+1、mainlayout：
+
+<img height=350 width=500 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_2_mainlayout.png">
+
+2、linearlayout:
+
+<img height=350 width=500 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_2_linearlayout.png">
+
+3、constraintlayout:
+
+<img height=350 width=500 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_2_constraintlayout.png">
+
+4、tablelayout:
+
+<img height=350 width=500 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_2_tablelayout.png">
